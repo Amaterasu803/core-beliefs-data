@@ -1,0 +1,350 @@
+{
+  "Core_Beliefs": {
+    "Emotional_Intelligence_&_Depth": [
+      {
+        "title": "Emotional Depth & Awareness",
+        "description": "I respect people who think deeply about life, about themselves, and about their impact on others. If your personality is based on surface-level experiences and distractions, I will not find you interesting."
+      },
+      {
+        "title": "Emotional Availability",
+        "description": "I engage in relationships with people who are open, expressive, and willing to share their emotions. If you are emotionally distant or shut down, we are not aligned."
+      },
+      {
+        "title": "Self-Awareness & Reflection",
+        "description": "I constantly analyze my actions and strive for growth. If you lack self-awareness or refuse to reflect on your behavior, we will not connect."
+      },
+      {
+        "title": "I Do Not Suppress My Emotions",
+        "description": "I feel deeply and allow myself to express it. If you expect me to be emotionally detached or 'chill' all the time, I am not for you."
+      },
+      {
+        "title": "I Am Not Afraid of Vulnerability",
+        "description": "I see vulnerability as strength, not weakness. If you struggle with emotional openness, our connection will be unsatisfying."
+      },
+      {
+        "title": "I Need People Who Can Handle Intensity",
+        "description": "I experience emotions intensely and expect those around me to navigate that depth. If you shy away from deep emotional experiences, we won’t work."
+      },
+      {
+        "title": "I Overthink Everything",
+        "description": "I analyze situations deeply. If you prefer to live on autopilot and avoid self-reflection, we will likely clash."
+      },
+      {
+        "title": "I Can Be Overly Critical of Myself",
+        "description": "I hold myself to very high standards—even to a fault. If you lack patience or compassion, our perspectives will differ."
+      },
+      {
+        "title": "I Pick Up on Small Details",
+        "description": "I notice inconsistencies, subtle changes, and hidden meanings. If you are someone who hides or distorts the truth, I will figure it out."
+      },
+      {
+        "title": "I Do Not Entertain Surface-Level Relationships",
+        "description": "I require depth, thoughtfulness, and intentionality. If you are emotionally shallow or avoid difficult conversations, we will not work."
+      }
+    ],
+    "Communication_&_Honesty": [
+      {
+        "title": "Radical Honesty & Transparency",
+        "description": "I don’t play games. I say what I mean, and I mean what I say. If you are secretive, misleading, or avoid difficult conversations, we will not work."
+      },
+      {
+        "title": "Direct Communication",
+        "description": "I do not do passive-aggressiveness, hinting, or subtle messaging. If you have something to say, say it. If you expect me to decode your feelings, keep moving."
+      },
+      {
+        "title": "I Will Not Chase You",
+        "description": "If you expect me to text or call first every time, this will not work. Communication is a two-way street—I expect mutual effort."
+      },
+      {
+        "title": "I Need Clarity & Consistency",
+        "description": "I do not deal with mixed signals. If you are hot and cold or your words don’t match your actions, I will walk away."
+      },
+      {
+        "title": "I Expect People to Mean What They Say",
+        "description": "I take words seriously. If you make empty promises or say things you don’t mean, I will not trust you."
+      },
+      {
+        "title": "I Do Not Tolerate Lying",
+        "description": "Even small lies break trust. If you have a habit of dishonesty, we will not work."
+      },
+      {
+        "title": "I Need Reassurance & Affirmation",
+        "description": "I like knowing where I stand. If you struggle to express feelings or offer reassurance, I may feel disconnected."
+      },
+      {
+        "title": "I Can Be Blunt & Unfiltered",
+        "description": "I say what I think and do not sugarcoat things. If you are easily offended by direct honesty, we may not be compatible."
+      },
+      {
+        "title": "I Do Not Like Unnecessary Small Talk",
+        "description": "I prefer meaningful conversations. If you only engage in surface-level chatter, I will likely lose interest."
+      },
+      {
+        "title": "I Expect Mutual Effort in Conversations",
+        "description": "I do not carry conversations alone. If you give one-word answers or fail to engage, I will stop trying."
+      },
+      {
+        "title": "Matching Energy Matters",
+        "description": "If I’m putting in effort and you’re giving me the bare minimum, you will lose access to me."
+      },
+      {
+        "title": "Quality Over Quantity in Communication",
+        "description": "I don’t need constant texting, but I do need quality. If you text just to check a box without engaging, I will lose interest."
+      },
+      {
+        "title": "I Respond Based on Energy",
+        "description": "If you’re inconsistent, so am I. If you’re all in, so am I. If you disappear, so do I. I reflect the effort I receive."
+      },
+      {
+        "title": "Active Engagement in Conversations",
+        "description": "If I’m giving you my time, I expect you to engage actively. One-word replies and lackluster responses will not suffice."
+      },
+      {
+        "title": "Expressing Emotions Clearly",
+        "description": "I believe emotions should be communicated openly. If you shut down or expect me to guess how you feel, this will not work."
+      }
+    ],
+    "Commitment_&_Stability": [
+      {
+        "title": "Consistency & Follow-Through",
+        "description": "I believe words should match actions. If you say one thing and do another, I will not take you seriously. Inconsistency, unreliability, or emotional hot-and-cold behavior is unacceptable."
+      },
+      {
+        "title": "Loyalty & Dedication",
+        "description": "If I care about you, I show up. I am not interested in flakiness or people who treat relationships as optional. If commitment scares you, we are not a match."
+      },
+      {
+        "title": "I Struggle with Commitment",
+        "description": "I sometimes find it hard to commit fully—whether due to past experiences or a need for independence. If you require unwavering commitment from the start, I may not be for you."
+      },
+      {
+        "title": "I Take Commitment Seriously",
+        "description": "I do not enter relationships lightly. When I commit, I follow through and expect the same dedication."
+      },
+      {
+        "title": "I Get Anxious About Uncertainty",
+        "description": "If you leave things open-ended or undefined, I will overthink and struggle with the lack of clarity."
+      },
+      {
+        "title": "I Need Stability & Security",
+        "description": "I thrive in stable environments. If you are unpredictable or unreliable, I will not feel safe with you."
+      },
+      {
+        "title": "I Do Not Settle for Half-Hearted Effort",
+        "description": "If you want to be in my life, be in it fully. I do not entertain minimal or intermittent effort."
+      },
+      {
+        "title": "I Have High Standards",
+        "description": "I know what I want and do not settle. If my standards intimidate you, we are not a match."
+      }
+    ],
+    "Boundaries_&_Independence": [
+      {
+        "title": "I Do Not Negotiate My Boundaries",
+        "description": "If I set a boundary, it is final. If you push, test, or try to change it, I will remove you."
+      },
+      {
+        "title": "I Need Personal Space",
+        "description": "I am not someone who thrives on constant interaction. Overly clingy, dependent behavior or needing 24/7 attention will suffocate me."
+      },
+      {
+        "title": "I Don’t Explain My 'No'",
+        "description": "No is a full sentence. I won't justify my limits beyond that. If you need constant justification, we will not align."
+      },
+      {
+        "title": "I Will Walk Away If You Cross the Line",
+        "description": "I do not believe in endless second chances. Cross my boundaries once and I'll address it; do it again, and I will cut ties."
+      },
+      {
+        "title": "I Don’t Do Obligation Friendships/Relationships",
+        "description": "History does not entitle you to my time or energy. If our connection stops serving me, I'll let it go."
+      },
+      {
+        "title": "I Can Be Emotionally Distant",
+        "description": "If I feel overwhelmed, I may shut down. I need people who can handle that without assuming the worst. Constant need for emotional availability won't work."
+      },
+      {
+        "title": "I Do Not Over-Extend Myself",
+        "description": "If I don’t want to do something, I won’t. Guilt-tripping or pressuring me will not change my decision."
+      },
+      {
+        "title": "I Struggle with Emotional Vulnerability",
+        "description": "I do not easily let people in. If you need constant verbal reassurance or immediate emotional openness, I might not be the right match."
+      },
+      {
+        "title": "I Will Not Be Controlled",
+        "description": "If you are possessive, jealous, or try to dictate my life, I will walk away without hesitation."
+      },
+      {
+        "title": "I Need My Own Life Outside of Relationships",
+        "description": "I will not sacrifice my friends, hobbies, or independence. If you need someone to be your entire world, I'm not that person."
+      },
+      {
+        "title": "I Don’t Like Being Told What to Do",
+        "description": "If you constantly try to correct or lecture me, we will clash. I respect advice, but not control."
+      },
+      {
+        "title": "I Can Be Stubborn in My Decisions",
+        "description": "Once I make up my mind, it’s hard to change it. If you expect me to constantly reconsider for your sake, we won’t get along."
+      },
+      {
+        "title": "I Do Not Chase People Who Pull Away",
+        "description": "If you distance yourself, I see it as a sign to move on. I don't run after those who don't prioritize me."
+      },
+      {
+        "title": "I Prioritize Myself First",
+        "description": "I will not sacrifice my needs for someone else’s. If you expect me to bend over backward, I'm not that person."
+      },
+      {
+        "title": "I Expect Respect for My Time",
+        "description": "If you constantly cancel, are late, or don’t respect my schedule, I will stop making time for you."
+      },
+      {
+        "title": "I Value Deep Emotional Connection",
+        "description": "I believe in close, engaged relationships. If you prefer to remain emotionally detached, we won't work."
+      },
+      {
+        "title": "I Need Reassurance & Emotional Availability",
+        "description": "I appreciate regular check-ins and clear expressions of care. If you struggle with this, we may not align."
+      },
+      {
+        "title": "I Like Spending a Lot of Time Together",
+        "description": "I enjoy sharing quality time and experiences. Extreme independence might not suit my needs."
+      },
+      {
+        "title": "I Thrive in Close Relationships",
+        "description": "I require strong emotional intimacy and continuous engagement. Overly casual or distant behavior won't suffice."
+      },
+      {
+        "title": "I Appreciate When Someone Takes the Lead",
+        "description": "I value partners who are decisive and guide our interactions. If you expect me to always lead, we may not match."
+      },
+      {
+        "title": "I Can Be Needy Sometimes",
+        "description": "I value reassurance and connection and may sometimes require extra attention. If you need total detachment, we won’t align."
+      },
+      {
+        "title": "I Struggle with Being Alone for Too Long",
+        "description": "I enjoy personal space, but I also need consistent presence and effort from those I care about."
+      },
+      {
+        "title": "I Want a Partner Who Shows Up for Me",
+        "description": "If you struggle with commitment, effort, or consistency, you will hurt me. I need to feel chosen, not like an afterthought."
+      }
+    ],
+    "Values_&_Lifestyle": [
+      {
+        "title": "I Prioritize Growth & Self-Improvement",
+        "description": "I constantly seek to evolve mentally, emotionally, and spiritually. If you are comfortable staying the same, we may not align."
+      },
+      {
+        "title": "I Value Intelligence & Thoughtfulness",
+        "description": "I enjoy deep conversations, curiosity, and intellectual exploration. If you do not actively engage in learning or critical thinking, I may lose interest."
+      },
+      {
+        "title": "I Do Not Tolerate Ignorance",
+        "description": "If you refuse to educate yourself on important topics or dismiss others’ perspectives without thought, we will not get along."
+      },
+      {
+        "title": "I Believe in Personal Responsibility",
+        "description": "I do not believe in blaming others for my problems. If you constantly play the victim or avoid accountability, we are not compatible."
+      },
+      {
+        "title": "I Believe in Hard Work & Ambition",
+        "description": "I set goals and work toward them. If you lack motivation or expect things to be handed to you, we will clash."
+      },
+      {
+        "title": "I Am Financially Conscious",
+        "description": "I manage my money intentionally—whether saving, investing, or spending wisely. Reckless financial habits are a deal-breaker."
+      },
+      {
+        "title": "I Live a Healthy Lifestyle",
+        "description": "I prioritize my physical and mental well-being. If you disregard your health, we will not align."
+      },
+      {
+        "title": "I Do Not Drink/Smoke/Do Drugs",
+        "description": "I have no interest in substances. If partying or casual substance use defines your lifestyle, we may not match."
+      },
+      {
+        "title": "I Enjoy Going Out & Socializing",
+        "description": "I love social events, meeting new people, and experiencing life. If you prefer staying home all the time, we may struggle."
+      },
+      {
+        "title": "I Prefer a Low-Key Lifestyle",
+        "description": "I enjoy quiet environments, deep connections, and small gatherings. If you constantly seek external stimulation, we may not align."
+      },
+      {
+        "title": "I Need a Balance of Adventure & Stability",
+        "description": "I thrive with both spontaneity and routine. If you are too rigid or too chaotic, we may not work."
+      },
+      {
+        "title": "I Believe in Monogamy & Loyalty",
+        "description": "I do not entertain situationships or non-exclusive relationships. If you are not fully invested, we will not align."
+      },
+      {
+        "title": "I Am Open to Non-Traditional Relationships",
+        "description": "I’m flexible about relationship norms. If you require strict traditionality, we may not be compatible."
+      },
+      {
+        "title": "I Have Strong Cultural/Religious Ties",
+        "description": "My culture or faith plays a significant role in my life. If you cannot respect that, we are not compatible."
+      },
+      {
+        "title": "I Prefer a Secular/Non-Religious Lifestyle",
+        "description": "Religion is not a major factor in my life, and I prefer partners who share that perspective."
+      },
+      {
+        "title": "I Am Politically Engaged",
+        "description": "I care deeply about social and political issues. If you are indifferent to the world around you, we may not align."
+      },
+      {
+        "title": "I Do Not Engage in Political Debates",
+        "description": "I’m not interested in constant political arguments. If discussing politics is your main focus, we may not match."
+      },
+      {
+        "title": "I Am an Animal Lover",
+        "description": "Pets are a huge part of my life, and I value kindness towards animals. If you dislike or mistreat them, we will not get along."
+      },
+      {
+        "title": "I Am Child-Free & Plan to Stay That Way",
+        "description": "I do not want children and have no plans to change that. If you want kids, we are not compatible."
+      },
+      {
+        "title": "I Want a Family in the Future",
+        "description": "I see children and family as important goals. If you do not want kids, we will not work long-term."
+      },
+      {
+        "title": "I Value Alone Time",
+        "description": "I enjoy solitude and need regular time to recharge. If you expect constant engagement, I will feel drained."
+      },
+      {
+        "title": "I Love Traveling & New Experiences",
+        "description": "I prioritize exploring the world and embracing adventure. If you prefer routine and familiarity, we may not align."
+      },
+      {
+        "title": "I Am Career-Driven",
+        "description": "My work and ambitions are a major part of my life. If you expect me to always be available over my goals, we may not be compatible."
+      },
+      {
+        "title": "I Am Family-Oriented",
+        "description": "I have strong ties to my family and value close relationships. If you are distant from your family, we may not align."
+      },
+      {
+        "title": "I Am Not Emotionally Attached to Family",
+        "description": "My family does not define my life, and I maintain some distance. If family is your top priority, we may not see eye to eye."
+      },
+      {
+        "title": "I Am a Minimalist",
+        "description": "I prefer a simple, intentional lifestyle over excessive materialism. If you value luxury and consumerism, we may not align."
+      },
+      {
+        "title": "I Appreciate the Finer Things",
+        "description": "I enjoy luxury, high-end experiences, and material comforts. If you do not value this, we may not share the same outlook."
+      },
+      {
+        "title": "I Live an Unconventional Lifestyle",
+        "description": "I do not follow the typical societal path. If you need someone who fits into a traditional mold, we may not be a match."
+      }
+    ]
+  }
+}
